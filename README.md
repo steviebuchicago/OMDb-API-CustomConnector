@@ -17,7 +17,7 @@ Check out this demo video:
 
 - **Movie Tracking**: Keep track of movies the family has watched, including the ability to log, edit, and delete entries.
 - **Movie Details**: View movie posters and detailed information such as synopsis, cast, and ratings.
-- **Randomizer Function**: Showcase how to build a randomizer function in PowerApps to suggest who get to choose the movie.
+- **Randomizer Function**: Showcase how to build a randomizer function in PowerApps to suggest who gets to choose the movie.
 - **Gallery Management**: Demonstrate how to edit and delete items within a gallery in PowerApps.
 - **Custom Connector**: A custom-built connector that interfaces with the OpenAI API to fetch movie data.
 - **User-Friendly Interface**: An intuitive PowerApp UI designed for ease of use.
