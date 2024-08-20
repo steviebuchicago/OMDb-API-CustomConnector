@@ -39,4 +39,4 @@ To get started with this project, you'll need the following:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/PowerApps-MovieDB-Connector.git
+   git clone [https://github.com/ChrisSalzzz/OMDb-API-CustomConnector.git]
