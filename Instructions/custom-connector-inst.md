@@ -113,7 +113,3 @@ Before you start, ensure you have the following:
 By following these instructions, you will have a custom connector integrated into your PowerApps application, allowing you to trigger API calls using the "Run" action and display movie data dynamically within your app.
 
 Feel free to customize this guide according to your specific use case or PowerApps environment.
-
----
-
-You can copy and paste this guide as a `README.md` file in your GitHub repository, and it will serve as a comprehensive reference for creating and using the OMDb API custom connector in PowerApps.
