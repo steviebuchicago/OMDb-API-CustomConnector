@@ -8,7 +8,7 @@ Welcome to the **OpenAI-CustomConnector** repository! This project demonstrates 
 
 Check out this demo video:
 
-[![Demo Video](https://img.youtube.com/vi/tVQ_Kx7A7rI/0.jpg)](https://www.youtube.com/watch?v=tVQ_Kx7A7rI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tVQ_Kx7A7rI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Features
