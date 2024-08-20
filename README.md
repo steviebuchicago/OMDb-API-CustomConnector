@@ -33,7 +33,7 @@ To get started with this project, you'll need the following:
   - **Excel**: Excel files stored in OneDrive for Business or SharePoint.
   - **SharePoint**: SharePoint lists or document libraries where movie data or related information can be stored and accessed by the app.
 - **Custom Connector Permissions**: The ability to create and manage custom connectors in PowerApps. This typically requires an appropriate PowerApps plan or administrative rights in your Microsoft 365 environment.
-- **OMDb API Key**: Sign up for an API key from OpenAI to access movie data.
+- **OMDb API Key**: Sign up for an API key from OMDb to access movie data.
 
 ### Installation
 
