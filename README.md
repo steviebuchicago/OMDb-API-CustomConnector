@@ -4,6 +4,13 @@
 
 Welcome to the **OpenAI-CustomConnector** repository! This project demonstrates how to create a movie tracking application using PowerApps, integrated with OpenAI for accessing a movie database. The app leverages a custom connector to connect PowerApps with OpenAI's API, providing dynamic movie information and pulling images as well.
 
+# My Project
+
+Check out this demo video:
+
+[![Demo Video](https://img.youtube.com/vi/tVQ_Kx7A7rI/0.jpg)](https://www.youtube.com/watch?v=tVQ_Kx7A7rI)
+
+
 ## Features
 
 - **Movie Tracking**: Keep track of movies the family has watched, including the ability to log, edit, and delete entries.
