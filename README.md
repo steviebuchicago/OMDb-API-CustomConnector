@@ -4,6 +4,9 @@
 
 Welcome to the **REST API-CustomConnector** repository! This project demonstrates how to create a movie tracking application using PowerApps, integrated with OMDb API for accessing a movie database. The app leverages a custom connector to connect PowerApps with OMDb API, providing dynamic movie information and pulling images as well.
 
+I'm proud to collaborate with [Mandy Madril](https://github.com/NativeGemDev) on this project.
+
+
 # My Project
 
 Check out this demo video:
